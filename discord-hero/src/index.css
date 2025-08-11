@@ -1,0 +1,26 @@
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #3b5bdb;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* #root {
+  position: relative;
+}
+
+#root::after {
+  content: "";
+  background: url("https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/landing-page/discord-background.png");
+  background-size: cover;
+  position: absolute;
+  width: 50px;
+  left: 20px;
+} */

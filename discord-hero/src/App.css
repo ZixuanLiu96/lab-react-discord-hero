@@ -1,0 +1,67 @@
+.App {
+  margin: 0 auto;
+  width: 95%;
+  position: relative;
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.logo {
+  width: 15%;
+}
+
+.text {
+  width: 45%;
+  margin-top: 70px;
+  color: #fff;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 80px;
+  line-height: 1;
+}
+
+p {
+  line-height: 2;
+  font-size: 20px;
+  margin-top: -25px;
+}
+
+.btn-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+button {
+  border: none;
+  border-radius: 30px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.download-btn {
+  color: #000;
+  width: 40%;
+}
+
+.open-btn {
+  width: 57%;
+  background: #222;
+  color: #fff;
+}
+
+.bg-img {
+  position: relative;
+  right: -40%;
+  bottom: 270px;
+}
